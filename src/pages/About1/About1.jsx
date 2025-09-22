@@ -49,7 +49,7 @@ const About1 = () => {
                             { label: 'First Name:', value: 'Fakhridinov' },
                             { label: 'Last Name:', value: 'Faridun' },
                             { label: 'BirthDate:', value: '11.04.2009' },
-                            { label: 'Nationality:', value: 'Uzbek' },
+                            { label: 'Nationality:', value: 'Tajik' },
                             { label: 'Freelance:', value: 'Available' },
                         ].map((item, idx) => (
                             <motion.h1 key={idx} variants={itemVariants}>
@@ -72,7 +72,7 @@ const About1 = () => {
                             Languages: <h2>UZ, TJ, EN</h2>
                         </motion.h1>
                         <motion.h1 variants={itemVariants}>
-                            Telegram: <h2><NavLink to="https://t.me/Web_Faridun" target="_blank">FaridunDev</NavLink></h2>
+                            Telegram: <h2><NavLink to="https://t.me/Web_Faridun" target="_blank">Faridun-Dev</NavLink></h2>
                         </motion.h1>
                     </motion.div>
                 </div>

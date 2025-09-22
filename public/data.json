@@ -7,7 +7,17 @@
         "startDate": "10.07.2025.",
         "endDate": "07.09.2025.",
         "tech": "React + Vite.",
-        "link": "https://uzbtransinc.netlify.app"
+        "link": "https://www.uzbtransinc.com"
+    },
+    {
+        "id": 19,
+        "title": "BMG Soft - IT",
+        "image": "https://i.postimg.cc/1zrBFWV0/BMG-SOFT.png",
+        "description": "Biz bilan biznesda yetakchi kompaniyalar qatoriga qo’shiling. Ehtiyojlaringiz uchun nima qila olamiz. Raqamlashtirish va avtomatlashtirishda ishonchli hamkoringiz BMGSoft web va mobil ilovalar ishlab chiqish UI/UI dizaynlar ishlab chiqarishda yetakchi kompaniyalardan biri hisoblanadi. Tajribali jamoamiz foydalanuvchilarga qulay xizmat ko’rsatib kelmoqda...",
+        "startDate": "08.09.2025.",
+        "endDate": "22.09.2025.",
+        "tech": "React + Vite.",
+        "link": "https://bmg-soft.netlify.app"
     },
     {
         "id": 2,
