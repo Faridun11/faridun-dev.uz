@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://faridun.uz/sitemap.xml
+Sitemap: https://faridun-dev.uz/sitemap.xml

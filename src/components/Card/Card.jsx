@@ -13,6 +13,7 @@ const cardVariants = {
             ease: 'easeOut'
         }
     }
+    // wdefrg
 };
 
 const Card = ({ id, title, image }) => {

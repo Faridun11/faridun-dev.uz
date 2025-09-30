@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://faridun.uz/</loc>
+    <loc>https://faridun-dev.uz</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://faridun.uz/AboutMe</loc>
+    <loc>https://faridun-dev.uz/AboutMe</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://faridun.uz/MyPortfolio</loc>
+    <loc>https://faridun-dev.uz/MyPortfolio</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://faridun.uz/Contact</loc>
+    <loc>https://faridun-dev.uz/Contact</loc>
     <priority>0.9</priority>
   </url>
 </urlset>
