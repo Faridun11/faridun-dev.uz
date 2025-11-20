@@ -47,8 +47,8 @@ const Section = () => {
       {/* <SEO
         title="Faridun Fakhridinov | Frontend Developer Portfolio"
         description="I am a Frontend Web-Developer specialized in React and modern web technologies. Explore my portfolio and contact me via Faridun.uz."
-        url="https://faridun.uz"
-        image="https://i.postimg.cc/Cdys8FTn/faridun.jpg"
+        url="https://faridun-dev.uz"
+        image="https://i.postimg.cc/TPsSz6sr/faridun-dev.jpg"
       /> */}
 
       <motion.section
@@ -65,8 +65,8 @@ const Section = () => {
             variants={itemVariants}
           >
             <img
-              src="https://i.postimg.cc/Cdys8FTn/faridun.jpg"
-              alt="Faridun"
+              src="https://i.postimg.cc/TPsSz6sr/faridun-dev.jpg"
+              alt="Faridun-Dev"
               className={styles.rasm}
             />
           </motion.div>

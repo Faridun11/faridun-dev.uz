@@ -95,7 +95,7 @@ const Contact1 = () => {
                             title: "TELEGRAM",
                             content: (
                                 <NavLink to="https://t.me/Web_Faridun" target="_blank">
-                                    <i className="fa-brands fa-telegram" /> FaridunDev
+                                    <i className="fa-brands fa-telegram" /> Faridun-Dev
                                 </NavLink>
                             )
                         },
